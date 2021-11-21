@@ -16,9 +16,9 @@ Then, in the body you have to add the parameters:
 * last_name
 * email.
 Without special characters or sql injection
-![Screenshot](foto 1.png)
+![Screenshot](foto1.png)
 This is the correct form
- ![Screenshot](foto 2.png)
+ ![Screenshot](foto2.png)
 After you have sent the request you will receive your credentials to proceed with step 2.
 
 Make sure to save them because you won't be able to refer to them later.
@@ -31,7 +31,7 @@ In the previous step you received:
 * email
 * API KEY
 You have to enter those 3 parameters in the header in this way
-![Screenshot](foto 3.png)
+![Screenshot](foto3.png)
 
 The fields must be named exactly NAME. EMAIL, APIKEY.
 
@@ -41,6 +41,6 @@ Then, in the body you have to add at least the following parameters:
 * interval {1min, 5min, 15min, 30min, 60min}
 For example:
 
-![Screenshot](foto 4.png)
+![Screenshot](foto4.png)
 
 Here you have the documents to know what this API offers https://www.alphavantage.co/documentation/
