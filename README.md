@@ -31,6 +31,7 @@ In the previous step you received:
 * name
 * email
 * API KEY
+
 You have to enter those 3 parameters in the header in this way
 ![Screenshot](foto3.png)
 
