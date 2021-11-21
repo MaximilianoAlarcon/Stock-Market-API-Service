@@ -15,6 +15,7 @@ Then, in the body you have to add the parameters:
 * name
 * last_name
 * email.
+
 Without special characters or sql injection
 ![Screenshot](foto1.png)
 This is the correct form
